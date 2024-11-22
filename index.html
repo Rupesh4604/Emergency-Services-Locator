@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Emergency Services & Flood Zones</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="header">Nearby Emergency Services & Flood Zones</div>
+    <div class="location-status" id="locationStatus">
+      Detecting your location...
+    </div>
+    <div class="nav-buttons">
+      <button class="nav-button active" id="allServices">ALL SERVICES</button>
+      <button class="nav-button" id="medical">HOSPITALS</button>
+      <button class="nav-button" id="rescue">EMERGENCY</button>
+      <button class="nav-button" id="shelters">SHELTERS</button>
+      <button class="nav-button" id="floodZones">FLOOD ZONES</button>
+    </div>
+    <div class="map-container">
+      <div id="map"></div>
+    </div>
+    <div class="button-container">
+      <button id="locateMe">Locate Me</button>
+    </div>
+    <div class="services-container" id="services-list"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
