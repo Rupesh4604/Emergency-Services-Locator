@@ -1,4 +1,3 @@
-
 # Emergency Services and Flood Zones Locator
 
 ## Overview
@@ -68,6 +67,10 @@ let serviceMarkers = [
 - **index.html**: Main HTML file.
 - **styles.css**: Contains the application's styling.
 - **script.js**: Core JavaScript logic for map interaction and data fetching.
+
+## App and Website Links
+- **App Download Link**: [https://median.co/share/erayep#apk](https://median.co/share/erayep#apk)
+- **Website Link**: [https://emergency-services-locator.netlify.app/](https://emergency-services-locator.netlify.app/)
 
 ## Future Enhancements
 - Integration with real-time flood alerts.
