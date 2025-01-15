@@ -69,8 +69,8 @@ let serviceMarkers = [
 - **script.js**: Core JavaScript logic for map interaction and data fetching.
 
 ## App and Website Links
-- **App Download Link**: [https://median.co/share/erayep#apk](https://median.co/share/erayep#apk)
-- **Website Link**: [https://emergency-services-locator.netlify.app/](https://emergency-services-locator.netlify.app/)
+- **IOS/Android App Download Link**: [https://median.co/share/erayep#apk](https://median.co/share/erayep#apk) both Mobile and Tab versions are avaliable  
+- **Live Website Link**: [https://emergency-services-locator.netlify.app/](https://emergency-services-locator.netlify.app/)
 
 ## Future Enhancements
 - Integration with real-time flood alerts.
