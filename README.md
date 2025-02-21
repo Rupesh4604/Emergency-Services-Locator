@@ -72,6 +72,10 @@ let serviceMarkers = [
 - **iOS/Android App Download Link**: [https://median.co/share/erayep#apk](https://median.co/share/erayep#apk) (Available for both mobile and tablet versions)
 - **Live Website Link**: [https://emergency-services-locator.netlify.app/](https://emergency-services-locator.netlify.app/)
 
+  ![image](https://github.com/user-attachments/assets/013b3ebf-5b75-4858-8732-92f9c2f9f1b8)
+- Use your smartphone camera to open QR code link.
+
+
 ## Future Enhancements
 - Integration with real-time flood alerts.
 - Support for additional emergency services.
