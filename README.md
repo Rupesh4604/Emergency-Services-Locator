@@ -75,6 +75,20 @@ let serviceMarkers = [
   ![image](https://github.com/user-attachments/assets/013b3ebf-5b75-4858-8732-92f9c2f9f1b8)
 - Use your smartphone camera to open QR code link.
 
+## Demo  
+[Watch the video](demo.mp4)  
+
+<table>
+  <tr>
+    <th>iOS Preview</th>
+    <th>Tablet Preview</th>
+  </tr>
+  <tr>
+    <td><img src="ios.png" width="250"></td>
+    <td><img src="tab.png" width="500"></td>
+  </tr>
+</table>
+
 
 ## Future Enhancements
 - Integration with real-time flood alerts.
