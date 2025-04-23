@@ -76,7 +76,7 @@ let serviceMarkers = [
 - Use your smartphone camera to open QR code link.
 
 ## Demo  
-[Watch the video](demo.mp4)  
+[Watch the video](images/demo.mp4)  
 
 <table>
   <tr>
@@ -84,8 +84,8 @@ let serviceMarkers = [
     <th>Tablet Preview</th>
   </tr>
   <tr>
-    <td><img src="ios.png" width="250"></td>
-    <td><img src="tab.png" width="500"></td>
+    <td><img src="images/ios.png" width="250"></td>
+    <td><img src="images/tab.png" width="500"></td>
   </tr>
 </table>
 
