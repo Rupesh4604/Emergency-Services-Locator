@@ -16,7 +16,10 @@ This project is an interactive web application designed to assist users in locat
 - **Libraries**: 
   - Leaflet.js for map rendering and interactivity
   - Overpass API for fetching nearby services
+  - FastAPI Backend
 - **APIs**: Geolocation API for detecting user location
+- PostGIS for flood analysis
+- Redis for caching
 
 ## Data Structures
 ### Flood Zones (Static Data)
